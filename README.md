@@ -9,6 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🛠️ Currently diving into **IoT**, **embedded systems**, and **microcontrollers**
+- 🔴 Active on Reddit in IoT and embedded communities
 - 👨‍💻 Strong in **Python** — check out my [ascii-art](https://github.com/javed-habeeb/ascii_art) and [password-manager](https://github.com/javed-habeeb/password-manager) projects
 - ⚡ Love blending **hardware and software** — building projects with Arduino, ESP32, and Raspberry Pi
 - 🌱 Learning **C**, **Linux**, and **embedded programming**
@@ -42,7 +43,7 @@
 
 ### 📫 How to Reach Me
 
-- 📨 Email: javed.habeeb@gmail.com
+- 📨 Email: javedhabeeb.ixc@gmail.com
   
 ---
 
