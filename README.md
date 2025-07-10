@@ -5,6 +5,8 @@
 </p>
 
 ---
+<h1 align="center">Courses completed</h1>
+1. Completed Blockchain A-Z (Udemy) – learned basics of blockchain, consensus, and Python-based blockchain implementation
 
 ### 👨‍💻 About Me
 
