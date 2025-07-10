@@ -1,42 +1,46 @@
-# Hey there 👋 I'm Javed Habeeb
+<h1 align="center">Hi, I'm Javed Habeeb 👋</h1>
 
-🎓 I'm an incoming Electronics & Communication Engineering (ECE) undergrad  
-🔭 Currently learning Blockchain & Ethereum development  
-🌱 I recently started my journey with Python and Smart Contracts  
-🧠 I'm diving into Solidity, web3.py, and full-stack dApp building  
-📚 Currently following "Blockchain A-Z" and shifting to modern tools like Hardhat & Foundry  
-⚡ Fun fact: I like systems that actually solve things, not just exist on paper
+<p align="center">
+  🚀 Developer in the making | 🎓 ECE Undergrad @ CUSAT (2025–2029) | 🌍 Tech Explorer
+</p>
 
 ---
 
-## 🔧 Tech I'm Learning
+### 👨‍💻 About Me
 
-- Solidity
-- Python (core + web3.py)
-- JavaScript (next: React + ethers.js)
-- Git & GitHub
-- Smart contract frameworks (Hardhat/Brownie)
-- unix basics
-
----
-
-## 🚀 My Goals for 2026
-
-- Contribute to at least 1 real-world Web3 open-source project
-- Publish 3+ smart contracts with working frontends
-- Document everything I build — from noob mistakes to dApp demos
-- Intern remotely in Web3 by 2nd year
-- Apply for ETHGlobal or other hackathons
+- 🛠️ Currently diving into **IoT**, **embedded systems**, and **microcontrollers**
+- 👨‍💻 Strong in **Python** — check out my [ascii-art](https://github.com/javed-habeeb/ascii_art) and [password-manager](https://github.com/javed-habeeb/password-manager) projects
+- ⚡ Love blending **hardware and software** — building projects with Arduino, ESP32, and Raspberry Pi
+- 🌱 Learning **C**, **Linux**, and **embedded programming**
+- ❄️ Goal: Work in cutting-edge IoT roles in Nordic countries (Finland, Sweden 🇫🇮 🇸🇪)
+- 💡 Interested in future intersections of **IoT + AI** and maybe even **blockchain-powered devices**
 
 ---
 
-## 🛠️ Projects (Coming soon)
+### 🔧 Tools & Tech I'm Using / Learning
 
-- [x] Blockchain from scratch (Python)
-- [ ] Voting dApp (Solidity + Hardhat)
-- [ ] Simple Wallet & Token
-- [ ] ECE + Blockchain crossover project (experimental 👀)
+- Languages: `Python`, `C`, `C++`
+- Platforms: `Arduino`, `ESP32`, `Raspberry Pi`
+- IoT Tools: `MQTT`, `Blynk`, `Thingspeak`, `Node-RED`
+- Dev Tools: `Git`, `Linux`, `VSCode`, `Fritzing`, `PlatformIO`
 
 ---
 
-📫 You can reach me via GitHub discussions or [javedhabeeb.ixc@gmail.com]
+### 📦 Upcoming Projects
+
+- 📡 Smart Home Sensor Network (ESP32 + MQTT + Blynk)
+- 💧 IoT Water Quality Monitor
+- 📊 Python dashboard for live sensor data
+- 🔐 Later: Decentralized IoT experiments (Blockchain + Devices)
+
+---
+
+### 📫 How to Reach Me
+
+- 📨 Email: javed.habeeb@gmail.com
+  
+---
+
+<p align="center">
+  ⚙️ ECE + IoT 
+</p>
