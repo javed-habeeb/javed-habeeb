@@ -8,8 +8,8 @@
 ## About Me
 
 I am an undergraduate student passionate about IoT, embedded systems, and microcontroller-based solutions.  
-Proficient in Python and experienced in integrating hardware and software for real-world applications using Arduino, ESP32, and Raspberry Pi.  
-Currently expanding my knowledge in C programming, Linux systems, and embedded software development.
+Proficient in Python,C and a touch of BASH scripting.
+Currently expanding my knowledge in C programming, Linux systems, embedded development, microcontrollers(arduino, esp32). 
 
 ---
 
@@ -29,10 +29,8 @@ Currently expanding my knowledge in C programming, Linux systems, and embedded s
 
 ## Skills
 
-**Programming Languages:** Python, C, C++  
-**Platforms:** Arduino, ESP32, Raspberry Pi  
-**IoT Tools:** MQTT, Blynk, Thingspeak, Node-RED  
-**Development Tools:** Git, Linux, VSCode, Fritzing, PlatformIO, Vim
+**Programming Languages:** Python, C, BASH  
+**Development Tools:** Git, Linux, Vim
 
 ---
 
