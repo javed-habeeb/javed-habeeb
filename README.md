@@ -1,40 +1,41 @@
-<h1 align="center">Hi, I'm Javed Habeeb 👋</h1>
+# Javed Habeeb
 
-
----
-
-### 👨‍💻 About Me
-
-- 🛠️ Currently diving into **IoT**, **embedded systems**, and **microcontrollers**
-- 🔴 Active on Reddit in IoT and embedded communities
-- 👨‍💻 Strong in **Python** — check out my [ascii-art](https://github.com/javed-habeeb/ascii_art) and [password-manager](https://github.com/javed-habeeb/password-manager) projects
-- ⚡ Love blending **hardware and software** — building projects with Arduino, ESP32, and Raspberry Pi
-- 🌱 Learning **C**, **Linux**, and **embedded programming**
-- ❄️ Goal: Work in cutting-edge IoT roles
+**Electronics and Communication Engineering Student**  
+**Specialization:** Internet of Things (IoT) and Embedded Systems
 
 ---
 
-### Courses completed
-1. Completed Blockchain A-Z (Udemy) – learned basics of blockchain, consensus, and Python-based blockchain implementation
-2. completed bandit and leviathan games on overthewire.org
+## About Me
+
+I am an undergraduate student passionate about IoT, embedded systems, and microcontroller-based solutions.  
+Proficient in Python and experienced in integrating hardware and software for real-world applications using Arduino, ESP32, and Raspberry Pi.  
+Currently expanding my knowledge in C programming, Linux systems, and embedded software development.
 
 ---
 
-### 🔧 Tools & Tech I'm Using / Learning
+## Projects
 
-- Languages: `Python`, `C`, `C++`
-- Platforms: `Arduino`, `ESP32`, `Raspberry Pi`
-- IoT Tools: `MQTT`, `Blynk`, `Thingspeak`, `Node-RED`
-- Dev Tools: `Git`, `Linux`, `VSCode`, `Fritzing`, `PlatformIO`, `Vim`
+- **[ASCII Art Generator](https://github.com/javed-habeeb/ascii_art):** Python-based CLI application to convert images into ASCII art.
+- **[Password Manager](https://github.com/javed-habeeb/password-manager):** Secure credential storage and retrieval application in Python.
 
 ---
 
-### 📫 How to Reach Me
+## Certifications & Training
 
-- 📨 Email: javedhabeeb.ixc@gmail.com
-  
+- **Blockchain A-Z (Udemy):** Basics of blockchain, consensus mechanisms, and Python blockchain implementation.
+- **OverTheWire Bandit & Leviathan Wargames:** Hands-on Linux and cybersecurity challenges.
+
 ---
 
-<p align="center">
-  ⚙️ ECE + IoT 
-</p>
+## Skills
+
+**Programming Languages:** Python, C, C++  
+**Platforms:** Arduino, ESP32, Raspberry Pi  
+**IoT Tools:** MQTT, Blynk, Thingspeak, Node-RED  
+**Development Tools:** Git, Linux, VSCode, Fritzing, PlatformIO, Vim
+
+---
+
+## Contact
+
+- **Email:** javedhabeeb.ixc@gmail.com
