@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Javed Habeeb 👋</h1>
 
-<p align="center">
-  🚀 Developer in the making | 🎓 ECE Undergrad @ CUSAT (2025–2029) | 🌍 Tech Explorer
-</p>
 
 ---
 
@@ -14,13 +11,12 @@
 - ⚡ Love blending **hardware and software** — building projects with Arduino, ESP32, and Raspberry Pi
 - 🌱 Learning **C**, **Linux**, and **embedded programming**
 - ❄️ Goal: Work in cutting-edge IoT roles
-- 💡 Interested in future intersections of **IoT + AI** and maybe even **blockchain-powered devices**
 
 ---
 
 ### Courses completed
 1. Completed Blockchain A-Z (Udemy) – learned basics of blockchain, consensus, and Python-based blockchain implementation
-2. completed bandit games of overthewire.org
+2. completed bandit and leviathan games on overthewire.org
 
 ---
 
@@ -30,15 +26,6 @@
 - Platforms: `Arduino`, `ESP32`, `Raspberry Pi`
 - IoT Tools: `MQTT`, `Blynk`, `Thingspeak`, `Node-RED`
 - Dev Tools: `Git`, `Linux`, `VSCode`, `Fritzing`, `PlatformIO`, `Vim`
-
----
-
-### 📦 Upcoming Projects
-
-- 📡 Smart Home Sensor Network (ESP32 + MQTT + Blynk)
-- 💧 IoT Water Quality Monitor
-- 📊 Python dashboard for live sensor data
-- 🔐 Later: Decentralized IoT experiments (Blockchain + Devices)
 
 ---
 
