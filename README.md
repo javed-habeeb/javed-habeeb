@@ -1,16 +1,3 @@
-# Javed Habeeb
-
-**Electronics and Communication Engineering Student**  
-
----
-
-## About Me
-
-I am an undergraduate student passionate about Linux, IoT, embedded systems, and microcontrollers.  
-Proficient in Python,C and a touch of BASH scripting.
-Currently expanding my knowledge in C programming, Linux systems, embedded development, microcontrollers(arduino, esp32). 
-
----
 
 ## Projects
 
@@ -20,20 +7,9 @@ Currently expanding my knowledge in C programming, Linux systems, embedded devel
 
 ---
 
-## Certifications & Training
-
-- **Blockchain A-Z (Udemy):** Basics of blockchain, consensus mechanisms, and Python blockchain implementation.
-- **OverTheWire Bandit & Leviathan Wargames:** Hands-on Linux and cybersecurity challenges.
-
----
-
-## Skills
-
 **Programming Languages:** Python, C, BASH  
 **Development Tools:** Git, Linux, Vim
 
 ---
 
-## Contact
-
-- **Email:** javedhabeeb.ixc@gmail.com
+- **Email:** javedhabeeb019@gmail.com
