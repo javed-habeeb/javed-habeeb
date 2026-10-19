@@ -7,9 +7,4 @@
 
 ---
 
-**Programming Languages:** Python, C, BASH  
-**Development Tools:** Git, Linux, Vim
-
----
-
 - **Email:** javedhabeeb019@gmail.com
